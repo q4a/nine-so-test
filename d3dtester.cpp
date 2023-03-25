@@ -1,6 +1,8 @@
 
 #include "d3dtester.h"
 
+// This is wrong definition WINAPI for Gallium Nine
+//#define WINAPI
 #include <d3d9.h>
 #include <SDL2/SDL.h>
 
